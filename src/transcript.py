@@ -47,7 +47,7 @@ def getPlainTxt(subs):
     # strip non ascci for english
     tmp = _strip_non_ascci(tmp)
     texts.append(tmp)
-    
+
   return texts
 
 # _strip_non_ascci
